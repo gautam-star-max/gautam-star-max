@@ -1,5 +1,5 @@
 ## Hi there 👋
-![logo]()
+![logo](https://github.com/gautam-star-max/gautam-star-max/blob/main/5a950630-e482-4a42-868e-2bbf896a02af.png)
 
 
 <h1 align="center">Hi 👋, I'm Gautam singh</h1>
