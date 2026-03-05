@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img align="right" width="400" height="300" src="https://github.com/Gautam-star-max/Gautam-star-max/blob/main/30f24097-5ef0-488b-b8f2-b2a80e35c80b.png">
+<img align="right" width="400" height="270" src="https://github.com/gautam-star-max/gautam-star-max/blob/main/4de4330b-58cb-40c8-b627-0a38ad490060%20(1).png">
 <img align="left" width="400" height="300" src="https://github.com/Gautam-star-max/Gautam-star-max/blob/main/5a950630-e482-4a42-868e-2bbf896a02af.png">
 <hr></hr><!-- 
 <a display="flex" flex-direction="column" href="https://github.com/Gautam-star-max/Gautam-star-max/blob/main/JARVIS_-_Marvel_s_Iron_Man_3_Second_Screen_Experience_-_Trailer(480p).mp4">see AI project vedio</a>
